@@ -18,7 +18,7 @@ Etapas da Atividade
 
 3. Estrutura Avançada do Projeto
 Organizar o projeto com as seguintes pastas e arquivos:
-
+```
 api-tarefas/
 ├── src/
 │   ├── controllers/
@@ -35,7 +35,7 @@ api-tarefas/
 │   │   └── fakeDb.js
 │   └── app.js
 ├── package.json
-
+``
 4. Implementação da API REST
 
 Módulo de Validação (Middleware)
