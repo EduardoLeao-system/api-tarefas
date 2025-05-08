@@ -35,7 +35,7 @@ api-tarefas/
 │   │   └── fakeDb.js
 │   └── app.js
 ├── package.json
-``
+```
 4. Implementação da API REST
 
 Módulo de Validação (Middleware)
